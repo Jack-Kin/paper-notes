@@ -19,3 +19,19 @@
 
 ### **Distributed File Systems**
 
+
+
+### Disaggregation
+
+[LegoOS: A Disseminated, Distributed OS for Hardware Resource Disaggregation](https://www.usenix.org/system/files/osdi18-shan.pdf)
+
+[Disaggregating Persistent Memory and Controlling Them Remotely: An Exploration of Passive Disaggregated Key-Value Stores](https://cseweb.ucsd.edu/~yiying/pDPM-ATC20.pdf)
+
+[Efficient Memory Disaggregation with INFINISWAP](https://www.usenix.org/conference/nsdi17/technical-sessions/presentation/gu)
+
+
+
+### Load Balance
+
+[HiveD: Sharing a GPU Cluster for Deep Learning with Guarantees](https://www.usenix.org/conference/osdi20/presentation/zhao-hanyu)
+
