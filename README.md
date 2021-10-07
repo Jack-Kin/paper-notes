@@ -19,7 +19,9 @@
 
 ### **Distributed File Systems**
 
+[Designs, Lessons and Advice from Building Large Distributed Systems](https://www.cs.cornell.edu/projects/ladis2009/talks/dean-keynote-ladis2009.pdf)
 
+[GFS](https://www.google.com/url?q=https://static.googleusercontent.com/media/research.google.com/en//archive/gfs-sosp2003.pdf&sa=D&source=editors&ust=1633563404834000&usg=AFQjCNFan8g7qVmSrXKWgp22fh9iEVKtIg)
 
 ### Disaggregation
 
