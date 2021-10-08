@@ -2,6 +2,10 @@
 
 
 
+[TOC]
+
+## Content
+
 ### **Indices and Data Structures**
 
 + [The design and implementation of a log-structured file system](https://web.stanford.edu/~ouster/cgi-bin/papers/lfs.pdf)
@@ -21,6 +25,8 @@
 
 [Designs, Lessons and Advice from Building Large Distributed Systems](https://www.cs.cornell.edu/projects/ladis2009/talks/dean-keynote-ladis2009.pdf)
 
+[Building Software Systems At Google and Lessons Learned](https://static.googleusercontent.com/media/research.google.com/zh-CN//people/jeff/Stanford-DL-Nov-2010.pdf)
+
 [GFS](https://www.google.com/url?q=https://static.googleusercontent.com/media/research.google.com/en//archive/gfs-sosp2003.pdf&sa=D&source=editors&ust=1633563404834000&usg=AFQjCNFan8g7qVmSrXKWgp22fh9iEVKtIg)
 
 ### Disaggregation
@@ -37,3 +43,6 @@
 
 [HiveD: Sharing a GPU Cluster for Deep Learning with Guarantees](https://www.usenix.org/conference/osdi20/presentation/zhao-hanyu)
 
+
+
+## Notes
