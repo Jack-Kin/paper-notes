@@ -29,6 +29,14 @@
 
 [GFS](https://www.google.com/url?q=https://static.googleusercontent.com/media/research.google.com/en//archive/gfs-sosp2003.pdf&sa=D&source=editors&ust=1633563404834000&usg=AFQjCNFan8g7qVmSrXKWgp22fh9iEVKtIg)
 
+
+
+### **Consistency and Consensus**
+
+[Raft](https://web.stanford.edu/~ouster/cgi-bin/papers/raft-atc14)
+
+[Dynamo](https://sites.cs.ucsb.edu/~ravenben/classes/276/papers/dynamo-sosp07.pdf)
+
 ### Disaggregation
 
 [LegoOS: A Disseminated, Distributed OS for Hardware Resource Disaggregation](https://www.usenix.org/system/files/osdi18-shan.pdf)
@@ -37,11 +45,15 @@
 
 [Efficient Memory Disaggregation with INFINISWAP](https://www.usenix.org/conference/nsdi17/technical-sessions/presentation/gu)
 
-
-
 ### Load Balance
 
 [HiveD: Sharing a GPU Cluster for Deep Learning with Guarantees](https://www.usenix.org/conference/osdi20/presentation/zhao-hanyu)
+
+### GPU
+
+https://developer.download.nvidia.com/CUDA/training/StreamsAndConcurrencyWebinar.pdf
+
+
 
 
 
