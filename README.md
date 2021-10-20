@@ -37,6 +37,12 @@
 
 [Dynamo](https://sites.cs.ucsb.edu/~ravenben/classes/276/papers/dynamo-sosp07.pdf)
 
+### Replication
+
+[Copysets: Reducing the Frequency of Data Loss in Cloud Storage](https://web.stanford.edu/~skatti/pubs/usenix13-copysets.pdf)
+
+[Fast Crash Recovery in RAMCloud](https://web.stanford.edu/~ouster/cgi-bin/papers/ramcloud-recovery.pdf)
+
 ### Disaggregation
 
 [LegoOS: A Disseminated, Distributed OS for Hardware Resource Disaggregation](https://www.usenix.org/system/files/osdi18-shan.pdf)
