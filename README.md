@@ -62,5 +62,3 @@ https://developer.download.nvidia.com/CUDA/training/StreamsAndConcurrencyWebinar
 
 
 
-
-## Notes
