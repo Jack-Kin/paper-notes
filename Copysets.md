@@ -108,6 +108,8 @@ Copyset Replication is equivalent to increasing the number of replicas.
 
 Implemented on 2 open source data center: HDFS and RAMCloud
 
+
+
 On **HDFS**, Copyset Replication is implemented entirely on the HDFS NameNode. 
 
 When a new node joins the cluster, the NameNode randomly creates $\dfrac{S}{R-1}$ new copysets that contain it.
@@ -116,6 +118,9 @@ When a node fails, for each of its copysets we replace it with a randomly select
 
 if the system’s goal is to prevent hot spots even in a worst case scenario with Copyset Replication,
 the system designer should increase the system’s scatter width accordingly.
+
++ orders of magnitude fewer copysets
++ higher worst-case loads because the permutation phase can produce some copysets with overlaps 
 
 
 
@@ -136,3 +141,4 @@ Results:
 ## What related problems are still open?
 
 + How to solve the copyset minimization problem for any scatter width
++ How to scatter on a big range
