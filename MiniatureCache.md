@@ -44,3 +44,9 @@ Scaling Down, Mini-Sim Cache Tuning and SLIDE. Mini-sim is extremely effective n
 2. Mini-Sim Cache Tuning: LIRS S stack size, 5 mini-sims with f = 1.1— 3. 2Q A1out size, 8 mini-sims with Kout = 50% — 300%. R = 0.005, epoch = 1M refs
 3.  SLIDE: it constructs MRC online and updates SLIDE settings periodically
 
+
+
+## What problems are still open?
+
+It is not clear how to apply their shadow-queue technique to more complex caching policies. Non-monotonicity may also present problems; even a small local bump in the MRC could be misinterpreted as the single cliff to be removed.
+
